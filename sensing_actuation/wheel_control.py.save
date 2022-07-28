@@ -1,0 +1,15 @@
+'''This is the firts file for controlling the picart wheels'''
+import time
+import RPi.GPIO as GPIO
+
+
+# Set up pins for use
+GPIO.setmode(GPIO.BCM)
+GPIO.setwarnings(False)
+GPIO.setup(17,GPIO.OUT)
+GPIO.setup(18,GPIO.OUT)
+
+print("starting motor sequence")
+
+
+
