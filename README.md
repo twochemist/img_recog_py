@@ -2,7 +2,7 @@
 This project aims to develop a self-driving car using code from python libraries (opencv, tensorflow, keras)
 and to merge them with hardware solutions. 
 
-![img_recog_py](https://github.com/twochemist/img_recog_py/blob/master/dyor1.png?raw=true "prototype")
+![img_recog_py](https://github.com/twochemist/img_recog_py/blob/main/dyor1.png)
 
 The hardware construction includes:
 
